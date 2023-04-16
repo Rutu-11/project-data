@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "fullName": "rutu",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "id": 1
+    },
+    {
+      "fullName": "Rutuja",
+      "email": "rutujadhekolkar97@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "transactions": [
+    {
+      "user": {
+        "fullName": "Rutuja",
+        "email": "rutujadhekolkar97@gmail.com",
+        "password": "1234",
+        "id": 2
+      },
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "690000",
+      "date": "2023-04-04",
+      "id": 1
+    },
+    {
+      "user": {
+        "fullName": "Rutuja",
+        "email": "rutujadhekolkar97@gmail.com",
+        "password": "1234",
+        "id": 2
+      },
+      "type": "Income",
+      "category": "Salary",
+      "amount": "198363",
+      "date": "2023-04-13",
+      "id": 2
+    },
+    {
+      "user": {
+        "fullName": "Rutuja",
+        "email": "rutujadhekolkar97@gmail.com",
+        "password": "1234",
+        "id": 2
+      },
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": "100000",
+      "date": "2023-04-17",
+      "id": 3
+    },
+    {
+      "user": {
+        "fullName": "Rutuja",
+        "email": "rutujadhekolkar97@gmail.com",
+        "password": "1234",
+        "id": 2
+      },
+      "type": "Income",
+      "category": "Refunds",
+      "amount": "109853",
+      "date": "2023-04-16",
+      "id": 4
+    }
+  ]
+}
